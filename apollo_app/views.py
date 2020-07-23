@@ -7,3 +7,5 @@ def index(request):
 def login(request):
     return HttpResponse('这是登录界面')
 
+def feab(request):
+    return HttpResponse('feabbbb')
