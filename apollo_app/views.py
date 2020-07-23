@@ -7,3 +7,5 @@ def index(request):
 def login(request):
     return HttpResponse('这是登录界面')
 
+def feaa(request):
+    return HttpResponse('feaa')
