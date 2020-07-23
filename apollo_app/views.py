@@ -9,3 +9,5 @@ def login(request):
 
 def feaa(request):
     return HttpResponse('feaa')
+def feab(request):
+    return HttpResponse('feabbbb')
